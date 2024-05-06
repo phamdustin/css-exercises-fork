@@ -1,0 +1,14 @@
+.clickmebutton,
+.nobutton{
+    font: size 28px;
+    font-family: 'helvetica', 'Times New Roman','sans-serif';
+}
+
+.clickmebutton {
+    color:white;
+    background-color: black;
+    font-weight: 700;
+}
+.nobutton {
+    background-color: yellow;
+}
